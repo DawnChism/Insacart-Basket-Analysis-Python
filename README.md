@@ -72,4 +72,4 @@ The project files are divided between the following folders:
 05 Sent to Client: The final report presented in Excel
 
 ## Resources
-Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this Achievement.
+Note: Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.
